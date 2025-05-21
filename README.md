@@ -1,7 +1,7 @@
 # ToDoList Swing Interface
 A simple desktop to-do list interface built with Java Swing. You can add tasks with a priority, optional deadline, and notes—and mark them done or delete them.
 
-**Features**
+## Features
 
 - **Add New Task:** Enter a name, priority (positive integer), optional deadline (year/month/day), and notes.
 
@@ -13,21 +13,21 @@ A simple desktop to-do list interface built with Java Swing. You can add tasks w
 
 - **Save & UI:** Simple “Save Item” and “New Item” buttons, plus a menu bar with Exit.
 
-**Requirements**
+## Requirments
 
 - Java 8 or higher
 
 - No external libraries (all Swing, Java standard)
 
 
-**Code Structure**
+## Structure
 
 - **ToDos.java:** Main frame, UI setup, listeners, date logic.
 
 - **Item.java:** Task model (name, priority, deadline, notes, completed flag). Implements comparable for sorting.
 
 
-**How to Use**
+## How to Run
 
 **1.** Click New Item to clear fields.
 
@@ -43,7 +43,7 @@ A simple desktop to-do list interface built with Java Swing. You can add tasks w
 
 
 
-**Preview:**
+## Preview
 
 ![Image](https://github.com/user-attachments/assets/09545d16-bb68-4bd9-995e-eede76b41efc)
 
