@@ -45,3 +45,6 @@ A simple desktop to-do list interface built with Java Swing. You can add tasks w
 
 **Preview:**
 
+![Image](https://github.com/user-attachments/assets/09545d16-bb68-4bd9-995e-eede76b41efc)
+
+![Image](https://github.com/user-attachments/assets/d5f81361-2251-4de1-be9f-474c9e39ddb4)
