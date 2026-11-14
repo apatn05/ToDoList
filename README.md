@@ -29,6 +29,15 @@ A simple desktop to-do list interface built with Java Swing. You can add tasks w
 
 ## How to Run
 
+From the project root, compile and launch the app:
+
+```bash
+javac src/*.java
+java -cp src ToDos
+```
+
+Once the window opens:
+
 **1.** Click New Item to clear fields.
 
 **2.** Enter Item name and Priority.
