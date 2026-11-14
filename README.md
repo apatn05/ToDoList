@@ -13,7 +13,7 @@ A simple desktop to-do list interface built with Java Swing. You can add tasks w
 
 - **Save & UI:** Simple “Save Item” and “New Item” buttons, plus a menu bar with Exit.
 
-## Requirments
+## Requirements
 
 - Java 8 or higher
 
